@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Chocolate",
+      "description": "polvo de cacao azucarado",
+      "price": 450,
+      "thumbnail": "",
+      "code": "ABC123",
+      "stock": 10,
+      "id": 1
+    },
+    {
+      "title": "Azucar",
+      "description": "Azucar 0000",
+      "price": 300,
+      "thumbnail": "",
+      "code": "DEF567",
+      "stock": 15,
+      "id": 2
+    }
+  ]
